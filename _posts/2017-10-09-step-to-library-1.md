@@ -6,9 +6,9 @@ summary:    This is an empty post to illustrate the pagination component with Pi
 categories: jekyll pixyll
 ---
 
-# Do you want to know how to code this?
+## Do you want to know how to code this?
 
-![alt text](https://github.com/aezlix/aezlix.github.io/images/libs.PNG)
+![alt text](https://en.wikipedia.org/wiki/Library#/media/File:Melk_-_Abbey_-_Library.jpg)
 
 1. Make a file called `bit.h` and insert the code below into it.
 
