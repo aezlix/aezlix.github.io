@@ -8,7 +8,7 @@ categories: github
 
 # Do you want to know how to code this?
 
-![alt text](.../images/libs.PNG)
+![alt text](../../images/libs.PNG)
 
 1. Make a file called `bit.h` and insert the code below into it.
 
