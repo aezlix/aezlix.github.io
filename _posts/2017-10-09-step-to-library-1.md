@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Coding c++, c and Objective-C Libraries in github
-date:       2017-06-08 18:15:25
+title:      Coding Objective-C Libraries in github
+date:       2017-10-09 
 summary:    This is an empty post to illustrate the pagination component with Pixyll.
 categories: github
 ---
