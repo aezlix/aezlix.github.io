@@ -3,7 +3,7 @@ layout:     post
 title:      Coding Objective-C Libraries in github
 date:       2017-10-09 
 summary:    This is an empty post to illustrate the pagination component with Pixyll.
-categories: github
+categories: jekyll pixyll
 ---
 
 # Do you want to know how to code this?
