@@ -3,7 +3,7 @@ title:       Pixyll
 email:       aezlo@myself.com
 author:      Aether Xander
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     ""
+baseurl:     "/pixyll"
 url:         "http://pixyll.athelo.net"
 date_format: "%b %-d, %Y"
 header_pages:
@@ -51,11 +51,11 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: aezlix
 reddit_username:
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
+twitter_username: axIeIr
 skype_username:
 steam_nickname:
 google_plus_id:
