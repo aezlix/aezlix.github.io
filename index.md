@@ -1,6 +1,6 @@
 ---
 layout: center
-permalink: /index
+permalink: /index/
 ---
 
 # The Index
