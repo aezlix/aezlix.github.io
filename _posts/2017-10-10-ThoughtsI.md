@@ -4,6 +4,7 @@ title:      Quote of the Month and Responses
 date:       2017-10-10
 summary:    This is an archiving table by Aezlix
 categories: thoughts pixyll
+permalink: /thoughtsI/
 ---
 
 # Question of the Week
