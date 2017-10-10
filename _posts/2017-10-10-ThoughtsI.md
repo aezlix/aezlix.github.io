@@ -6,3 +6,8 @@ summary:    Transform your plain text into static websites and blogs. Simple, st
 categories: thoughts
 ---
 
+# Question of the Week
+
+# Is Antarctica a desert and why?
+
+### Despite its thick ice, Antarctica is classified as a desert because so little moisture falls from the sky. The inner regions of the continent receive an average of 2 inches (50 millimeters) of precipitation—primarily in the form of snow—each year. More rain falls in the Sahara desert.
