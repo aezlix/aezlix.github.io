@@ -4,6 +4,7 @@ title:      Coding Objective-C Libraries in github
 date:       2017-10-09 
 summary:    This is the first part of the Objective-C Libraries series.
 categories: jekyll pixyll
+permalink: /step-to-library-1/
 ---
 
 ## Do you want to know how to code libraries?
