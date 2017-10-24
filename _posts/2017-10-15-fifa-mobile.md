@@ -21,7 +21,7 @@ permalink: /fifa-mobile/
 
 5. Dybala (86)
 
-6. Krishna (84)
+6. Minamino (89)
 
 7. Lewandowski (87)
 
@@ -62,3 +62,13 @@ permalink: /fifa-mobile/
 25. Sakai (89)
 
 26. Zappacosta (87)
+
+Reserves
+
+1. Krishna (84)
+
+2. Sergio Ramos (85)
+
+3. Adrien Silva (80)
+
+4. Thiago Silva (86)
